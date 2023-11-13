@@ -27,4 +27,5 @@ Sou estudante de Ciência da Computação na UFSJ. Este é o lugar onde você po
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitoReis&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoReis&theme=dracula&hide_langs_below=1)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitoReis&show_icons=true&theme=dracula&hide_langs_below=1)
