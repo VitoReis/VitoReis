@@ -19,7 +19,8 @@ Sou estudante de Ciência da Computação na UFSJ. Este é o lugar onde você po
 
 ## Projetos em Destaque
 
-- [Automato celular](https://github.com/VitoReis/Cellular_Automaton)
+- [Automato celular - Python](https://github.com/VitoReis/Cellular_Automaton)
+- [Automato celular - C](https://github.com/VitoReis/Cellular_Automaton-C)
 - [Keylogger simples](https://github.com/VitoReis/Keylogger)
 - [Biblioteca editada para 0.96" 80x160(RGB) IPS display arduino](https://github.com/VitoReis/Adafruit-ST7735-Library-Modified)
 - [Tamagotchi no Arduino](https://github.com/VitoReis/Ardagotchi)
