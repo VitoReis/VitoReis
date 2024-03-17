@@ -14,7 +14,7 @@ Sou estudante de Ciência da Computação na UFSJ. Este é o lugar onde você po
 - Python
 - Java
 - Arduino
-- Desenvolvimento Web (HTML, CSS, JavaScript)
+- Desenvolvimento Web (HTML, CSS, JavaScript, ReactJS, Express)
 - Banco de Dados (MySQL, MongoDB)
 - GDScript
 
