@@ -36,7 +36,7 @@ Sou estudante de Ciência da Computação na UFSJ. Este é o lugar onde você po
 
 ## Projetos em Destaque
 
-- [Portfólio](https://github.com/VitoReis/Portfolio)
+- [Portfólio](https://vitoreis.github.io/Portfolio/)
 - [To do list](https://github.com/VitoReis/TODO_list)
 - [Autômato celular - Python](https://github.com/VitoReis/Cellular_Automaton)
 - [Keylogger simples](https://github.com/VitoReis/Keylogger)
