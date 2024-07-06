@@ -33,6 +33,7 @@ Sou estudante de Ciência da Computação na UFSJ e estagiário em desenvolvimen
 <code><img height="30" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /></code>
 
 #### Outras Tecnologias
+<code><img height="30" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" /></code>
 <code><img height="30" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></code>
 
 #### Sistemas operacionais
