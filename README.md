@@ -45,6 +45,7 @@ Sou estudante de Ciência da Computação na UFSJ e estagiário em desenvolvimen
 
 ## Projetos em Destaque
 - [Portfólio](https://vitoreis.github.io/Portfolio/)
+- [Mirai Compiler](https://github.com/VitoReis/MIRAI_COMPILER)
 - [Code Sentinel](https://github.com/VitoReis/CodeSentinel)
 - [To do list](https://github.com/VitoReis/TODO_list)
 - [Autômato celular - Python](https://github.com/VitoReis/Cellular_Automaton)
