@@ -31,6 +31,7 @@ Sou estudante de Ciência da Computação na UFSJ e estagiário em desenvolvimen
 #### Desenvolvimento de Jogos
 <code><img height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></code>
 <code><img height="30" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /></code>
+<code><img height="30" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /></code>
 
 #### Outras Tecnologias
 <code><img height="30" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" /></code>
