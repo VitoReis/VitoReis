@@ -3,7 +3,7 @@
 Sou estudante de Ciência da Computação na UFSJ e estagiário em desenvolvimento na Robbyson. Este é o lugar onde você pode encontrar e acompanhar alguns dos meus projetos. Além disso, fique à vontade para me contatar nas redes sociais:
 
 [![Instagram](https://img.icons8.com/3d-fluency/94/instagram-new.png)](https://www.instagram.com/vitor.s.reis/)
-[![LinkedIn](https://img.icons8.com/3d-fluency/94/linkedin.png)](https://www.linkedin.com/in/vitor-silva-reis-1b8335203/)
+[![LinkedIn](https://img.icons8.com/3d-fluency/94/linkedin.png)](https://www.linkedin.com/in/vitor-silva-reis/)
 [![Gmail](https://img.icons8.com/3d-fluency/94/gmail.png)](mailto:vitorejuvian@hotmail.com)
 
 ## Habilidades
