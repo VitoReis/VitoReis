@@ -23,6 +23,7 @@ Sou estudante de Ciência da Computação na UFSJ e estagiário em desenvolvimen
 <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></code>
 <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></code>
 <code><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></code>
+<code><img height="30" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" /></code>
 
 #### Bancos de Dados
 <code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
@@ -45,13 +46,13 @@ Sou estudante de Ciência da Computação na UFSJ e estagiário em desenvolvimen
 <code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 
 ## Projetos em Destaque
-- [Portfólio](https://vitoreis.github.io/Portfolio/)
-- [Mirai Compiler](https://github.com/VitoReis/MIRAI_COMPILER)
-- [Code Sentinel](https://github.com/VitoReis/CodeSentinel)
-- [To do list](https://github.com/VitoReis/TODO_list)
 - [Autômato celular - Python](https://github.com/VitoReis/Cellular_Automaton)
-- [Keylogger simples](https://github.com/VitoReis/Keylogger)
+- [CBFManager](https://github.com/VitoReis/CBFManager)
+- [Mirai Compiler](https://github.com/VitoReis/MIRAI_COMPILER)
 - [Tamagotchi no Arduino](https://github.com/VitoReis/Ardagotchi)
+- [Code Sentinel](https://github.com/VitoReis/CodeSentinel)
+- [Portfólio](https://vitoreis.github.io/Portfolio/)
+- [To do list](https://github.com/VitoReis/TODO_list)
 
 
 ## Estatísticas do GitHub
