@@ -1,6 +1,10 @@
 # Bem-vindo(a) ao meu perfil do GitHub!
 ## Sobre Mim
-Sou estudante de Ciência da Computação na UFSJ e estagiário em desenvolvimento na Robbyson. Este é o lugar onde você pode encontrar e acompanhar alguns dos meus projetos. Além disso, fique à vontade para me contatar nas redes sociais:
+Sou desenvolvedor de sistemas pleno na AeC, com mestrado em andamento em Sistemas de Informação pela UFSJ, onde também me graduei em Ciência da Computação. Atuei por 1 ano como estagiário e por 3 meses como desenvolvedor júnior na Robbyson, onde tive a oportunidade de aprofundar meus conhecimentos em desenvolvimento de software.
+
+Este é o lugar onde você pode encontrar e acompanhar alguns dos meus projetos.
+
+Sinta-se à vontade para me contatar nas redes sociais:
 
 [![Instagram](https://img.icons8.com/3d-fluency/94/instagram-new.png)](https://www.instagram.com/vitor.s.reis/)
 [![LinkedIn](https://img.icons8.com/3d-fluency/94/linkedin.png)](https://www.linkedin.com/in/vitor-silva-reis/)
